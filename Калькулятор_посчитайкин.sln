@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Калькулятор_посчитайкин", "Калькулятор_посчитайкин\Калькулятор_посчитайкин.csproj", "{C1671223-904B-4E19-A824-138A41366CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poschitaikin_dll", "..\Посчитайкин\Project2\Poschitaikin_dll.csproj", "{84E4C481-A37C-46EE-B45F-FCDEE877BA10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poschitaikin", "..\Посчитайкин_консолька\Project2\Poschitaikin.csproj", "{B28FEDB1-339D-4107-8A88-F2D2E9ACA124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1671223-904B-4E19-A824-138A41366CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1671223-904B-4E19-A824-138A41366CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1671223-904B-4E19-A824-138A41366CE1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C1671223-904B-4E19-A824-138A41366CE1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C1671223-904B-4E19-A824-138A41366CE1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C1671223-904B-4E19-A824-138A41366CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1671223-904B-4E19-A824-138A41366CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1671223-904B-4E19-A824-138A41366CE1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C1671223-904B-4E19-A824-138A41366CE1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C1671223-904B-4E19-A824-138A41366CE1}.Release|x86.ActiveCfg = Release|Any CPU
+		{84E4C481-A37C-46EE-B45F-FCDEE877BA10}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{84E4C481-A37C-46EE-B45F-FCDEE877BA10}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{84E4C481-A37C-46EE-B45F-FCDEE877BA10}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{84E4C481-A37C-46EE-B45F-FCDEE877BA10}.Debug|x86.ActiveCfg = Debug|x86
+		{84E4C481-A37C-46EE-B45F-FCDEE877BA10}.Debug|x86.Build.0 = Debug|x86
+		{84E4C481-A37C-46EE-B45F-FCDEE877BA10}.Release|Any CPU.ActiveCfg = Release|x86
+		{84E4C481-A37C-46EE-B45F-FCDEE877BA10}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{84E4C481-A37C-46EE-B45F-FCDEE877BA10}.Release|Mixed Platforms.Build.0 = Release|x86
+		{84E4C481-A37C-46EE-B45F-FCDEE877BA10}.Release|x86.ActiveCfg = Release|x86
+		{84E4C481-A37C-46EE-B45F-FCDEE877BA10}.Release|x86.Build.0 = Release|x86
+		{B28FEDB1-339D-4107-8A88-F2D2E9ACA124}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B28FEDB1-339D-4107-8A88-F2D2E9ACA124}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B28FEDB1-339D-4107-8A88-F2D2E9ACA124}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{B28FEDB1-339D-4107-8A88-F2D2E9ACA124}.Debug|x86.ActiveCfg = Debug|x86
+		{B28FEDB1-339D-4107-8A88-F2D2E9ACA124}.Debug|x86.Build.0 = Debug|x86
+		{B28FEDB1-339D-4107-8A88-F2D2E9ACA124}.Release|Any CPU.ActiveCfg = Release|x86
+		{B28FEDB1-339D-4107-8A88-F2D2E9ACA124}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B28FEDB1-339D-4107-8A88-F2D2E9ACA124}.Release|Mixed Platforms.Build.0 = Release|x86
+		{B28FEDB1-339D-4107-8A88-F2D2E9ACA124}.Release|x86.ActiveCfg = Release|x86
+		{B28FEDB1-339D-4107-8A88-F2D2E9ACA124}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
